@@ -1,1 +1,6 @@
-# salads.github.io
+---
+title: Home
+---
+
+# Some Cool Stuff
+
